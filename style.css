@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(238, 188, 130);
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+}
+
+header {
+    background-color: blue;
+    height: 118px;
+}
+
+nav {
+    background-color: red;
+    height: 40px;
+}
+
+main {
+    background-color: yellow;
+    height: 400px;
+}
+
+footer {
+    background-color: green;
+    height: 100px;
+}
