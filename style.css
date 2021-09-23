@@ -1,6 +1,15 @@
+html {
+    height: : 100%;
+}
+
 body {
     background-color: rgb(238, 188, 130);
+    background-image: url(img/danielle-macinnes-logv9s7f67o-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 
 .container {
     margin-right: auto;
@@ -9,14 +18,15 @@ body {
 }
 
 header {
-    background-color: blue;
     height: 118px;
     text-align: center;
 }
 
 nav {
-    background-color: red;
-    height: 40px;
+    background-color: rgba(131, 129, 129, 0.39);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
 }
 
 main {
@@ -28,7 +38,7 @@ main {
 }
 
 footer {
-    background-color: green;
+    background-color: white;
     height: 100px;
 }
 
@@ -43,4 +53,16 @@ p {
     font-size: 18px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
