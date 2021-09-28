@@ -1,2 +1,2 @@
 # Restaurant-Website
-Small restaurant website: Introduction to web design
+A simple but elegant restaurant website : Introduction to web design
